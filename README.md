@@ -10,6 +10,7 @@ Wait long enough and almost every state of a closed, frictionless system returns
   <img src="figures/02_liouville.gif" width="290" alt="blob of pendulum states stretching while keeping its area">
 </p>
 
+
 ## Run the code
 
 **In the browser (no install):** open `notebook/poincare_recurrence.ipynb` in Google Colab and press *Run all*.
