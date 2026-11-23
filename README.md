@@ -1,8 +1,8 @@
 # Everything Comes Back (Eventually)
 
-**The Poincaré Recurrence Theorem**, a classical mechanics course project at IIT Bombay.
+**The Poincaré Recurrence Theorem**, a classical mechanics course project.
 
-Wait long enough and almost every state of a closed, frictionless system returns as close as we like to where it started. This repo has the simulations, the figures, the slides and the study notes.
+Wait long enough and almost every state of a closed, frictionless system returns as close as we like to where it started. This repo has the code and the figures.
 
 <p align="center">
   <img src="figures/04_cat_map.gif" width="260" alt="cat map scrambling and restoring a picture">
